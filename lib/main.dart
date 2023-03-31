@@ -1,5 +1,5 @@
-import 'package:animal_biography/pages/HomePage.dart';
-import 'package:animal_biography/pages/splashScreen.dart';
+import 'package:animal_app_flutter/pages/HomePage.dart';
+import 'package:animal_app_flutter/pages/splashScreen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
