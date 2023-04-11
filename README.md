@@ -15,7 +15,6 @@ Simple animal_app_flutter App made with Flutter in India.
 
 # 🪪 License 
 copyright ©[Nirmal Madhani](https://github.com/nirmalmadhani2002).<br>
-This project is [MIT](Licensed) licensed.
 
 <div  align="center">
 
