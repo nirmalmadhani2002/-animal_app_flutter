@@ -4,7 +4,7 @@
 
 
 # **animal_app_flutter**
-Simple OTP Generate App made with Flutter in India.
+Simple animal_app_flutter App made with Flutter in India.
 
 
 ---
